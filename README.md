@@ -12,4 +12,5 @@ Kelas  : B
 | Tanggal          | Tugas         | Deskripsi   |
 | -------------    | ------------- | ------------|
 | 19 Agustus 2024  | Tugas - 1     | Latihan HTML desain sederhana|
-| 26 Agustus 2024  | Tugas - 2     | xxxxxxxx |
+| 26 Agustus 2024  | Tugas - 2     | Latihan HTML + CSS |
+| 2 September 2024  | Tugas - 3     | Kalkulator dan Nilai Mutu  |
